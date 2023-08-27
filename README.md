@@ -1,3 +1,3 @@
 # weather-API
 <br>
-Author
+Author - Prakash Kushwaha
