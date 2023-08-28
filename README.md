@@ -1,3 +1,3 @@
 # weather-API
 <br>
-Author - Prakash Kushwaha
+Author - Prakash Kushwaha  (BldVictry)
